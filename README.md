@@ -20,7 +20,7 @@ Esta é a minha solução para o desafio [QR Code Component](https://www.fronten
 ## 🚀 Tecnologias usadas
 
 - HTML
-- CSS
+- CSS 
 - Flexbox
 - Design responsivo (mobile-first)
 
@@ -31,13 +31,15 @@ Adicionar animações suaves na transição do QR Code.
 
 Criar uma versão escura do layout (dark mode).
 
-📚 Recursos úteis
+📚 Recursos úteis:
+
 Guia do Flexbox - CSS Tricks
 Guia de cores HSL
 Google Fonts
 
-👨‍💻 Autor
+👨‍💻 Autor:
+
 GitHub: @Developer-Vini
 
-🙌 Agradecimentos
+🙌 Agradecimentos:
 Projeto realizado com base nos desafios do site Frontend Mentor, que ajudam muito a praticar e evoluir no desenvolvimento front-end.
